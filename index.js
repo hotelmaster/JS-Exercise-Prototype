@@ -41,7 +41,6 @@ TASK 1
 
 // constructor function
 function Person(attrs) {
-  // explicit binding
   this.name = attrs.name;
   this.age = attrs.age;
   this.stomach = [];
